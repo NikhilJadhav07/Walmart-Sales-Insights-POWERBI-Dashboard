@@ -8,7 +8,7 @@
 
 An interactive **Power BI sales analytics dashboard** that tracks sales, profit, orders, customers and products for a retail business, and highlights the best and worst performing categories, products, states and months.
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
